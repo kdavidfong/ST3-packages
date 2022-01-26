@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<transition name="${1}">${2}</transition>${3}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>trans</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope></scope>
+</snippet>

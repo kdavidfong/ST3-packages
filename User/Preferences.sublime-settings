@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Colorsublime - Themes/spectral.tmTheme",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"theme": "Seti.sublime-theme",
+}

@@ -1,0 +1,21 @@
+{
+	"name": "sublime-vue-formatter",
+	"version": "1.0.0",
+	"dependencies": {
+		"esformatter": "*",
+		"esformatter-asi": "*",
+		"esformatter-braces": "*",
+		"esformatter-dot-notation": "*",
+		"esformatter-equals": "*",
+		"esformatter-parseint": "*",
+		"esformatter-quotes": "*",
+		"esformatter-remove-trailing-commas": "*",
+		"esformatter-semicolons": "*",
+		"esformatter-spaced-lined-comment": "*",
+		"html-entities": "*",
+		"js-beautify": "*",
+		"jsdom": "*",
+		"jsonminify": "*",
+		"pug-beautify": "^0.1.1"
+	}
+}

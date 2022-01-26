@@ -1,0 +1,44 @@
+<snippet>
+	<content><![CDATA[
+@extends('layout')
+@section('breadcrumbs')
+	{{-- <nav aria-label="breadcrumb">
+		<ol class="breadcrumb">
+			<li class="breadcrumb-item">Inventory</li>
+			<li class="breadcrumb-item active" aria-current="page"><a href="#">Receiving</a></li>
+		</ol>
+	</nav> --}}
+@endsection
+@section('content')
+	<div id="local">
+		<v-app>
+		${1}
+		</v-app>
+	</div>
+@endsection
+@section('scripts')
+<script>
+	const local = new Vue({
+		el: "#local",
+    	vuetify: new Vuetify(),
+		computed: {
+
+		},
+		data: {
+			${2}
+		},
+		methods: {
+
+		},
+		mounted() {
+
+		},
+	})
+</script>
+@endsection
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>vblade</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope></scope>
+</snippet>

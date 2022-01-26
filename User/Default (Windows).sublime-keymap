@@ -1,0 +1,33 @@
+
+  
+  [
+    {
+      "keys": ["ctrl+shift+r"], "command": "browser_refresh", "args": {
+        "auto_save": true,
+        "delay": 0.5,
+        "activate": true,
+        "browsers" : ["chrome"]
+      }
+    },
+    
+    {
+      "keys": ["ctrl+."],
+      "command": "insert",
+      "args": {
+        "characters": "->"
+      }
+    },
+
+    {
+      "keys": ["ctrl+shift+."],
+      "command": "insert",
+      "args": {
+        "characters": "=>"
+      }
+    },
+    { "keys": ["f4"], "command": "import_namespace" },
+    { "keys": ["f9"], "command": "expand_fqcn" },
+    { "keys": ["f10"], "command": "find_use" },
+    { "keys": ["f7"], "command": "insert_php_constructor_property"}
+  ]
+  

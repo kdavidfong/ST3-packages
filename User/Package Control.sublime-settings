@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AttrFold",
+		"Bootstrap 4 Autocomplete",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Colorsublime",
+		"Emmet",
+		"Laravel 5 Artisan",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"Pretty JSON",
+		"Sass",
+		"Schemr",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Themr",
+		"Vue Syntax Highlight",
+		"VueFormatter",
+		"Vuejs Complete Package",
+	],
+}

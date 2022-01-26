@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<portlet>
+	<template v-slot:title>${1}</template>
+	<template v-slot:body>${2}</template>
+</portlet>${0}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>port</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope></scope>
+</snippet>

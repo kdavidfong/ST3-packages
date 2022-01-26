@@ -1,0 +1,13 @@
+{
+    "editor.tabSize": 2,
+    "eslint.options": {
+        "rulePaths": ["eslint-internal-rules"]
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "vue"
+    ],
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "vetur.validation.script": false
+}

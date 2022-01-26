@@ -1,0 +1,36 @@
+<snippet>
+	<content><![CDATA[
+<template>
+	<div>${2}</div>
+</template>
+<script>
+	export default {
+		name: '${1}',
+        props: {
+            ${3}
+        },
+        data() {
+            return {
+                "value": "",
+            }
+        },
+        computed: {
+            
+        },
+        methods: {
+            
+        },
+        watch: {
+            
+        },
+	}
+</script>
+<style scoped>
+	
+</style>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>vcomp</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope></scope>
+</snippet>

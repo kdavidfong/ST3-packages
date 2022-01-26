@@ -1,0 +1,7 @@
+{
+	"scope": "text.html meta.tag",
+	"completions":
+	[
+		{ "trigger" : "v-model", "contents": "v-model=\"$1\"$2"},
+	]
+}
